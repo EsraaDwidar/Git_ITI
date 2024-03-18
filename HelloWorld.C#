@@ -1,0 +1,3 @@
+class hello{
+	console.writeline("Hello World!");
+}

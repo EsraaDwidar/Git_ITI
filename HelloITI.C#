@@ -1,0 +1,3 @@
+class iti{
+console.writeline("Helli iti!");
+}
